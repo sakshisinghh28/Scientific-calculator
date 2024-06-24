@@ -1,0 +1,1 @@
+This project implements a simple scientific calculator in Java. The calculator can perform basic arithmetic operations, trigonometric functions, logarithmic functions, and other scientific calculations. It provides a console-based interface for user interaction.
