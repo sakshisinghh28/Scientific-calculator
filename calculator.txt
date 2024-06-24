@@ -1,1 +1,0 @@
-This is an Advanced Scientific Calculator, it's a powerful tool designed for students, engineers, and professionals needing robust mathematical capabilities. Built using Java, it offers a sleek graphical interface and a wide range of functions beyond basic arithmetic.
